@@ -35,6 +35,7 @@ dist_python_DATA = \
     nginx.chart.py \
     ovpn_status_log.chart.py \
     phpfpm.chart.py \
+    pmem.chart.py \
     postfix.chart.py \
     postgres.chart.py \
     redis.chart.py \

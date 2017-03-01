@@ -45,6 +45,7 @@ dist_pythonconfig_DATA = \
     python.d/nginx.conf \
     python.d/ovpn_status_log.conf \
     python.d/phpfpm.conf \
+    python.d/pmem.conf \
     python.d/postfix.conf \
     python.d/postgres.conf \
     python.d/redis.conf \
@@ -73,6 +74,7 @@ dist_healthconfig_DATA = \
     health.d/mysql.conf \
     health.d/named.conf \
     health.d/nginx.conf \
+    health.d/pmem.conf \
     health.d/postgres.conf \
     health.d/redis.conf \
     health.d/retroshare.conf \
